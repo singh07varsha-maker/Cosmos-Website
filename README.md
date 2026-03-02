@@ -1,2 +1,4 @@
 # Cosmos-Website
-a Website on Space Exploration
+A Website on Space Exploration
+-By Dhruv
+
